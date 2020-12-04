@@ -3,7 +3,7 @@ progress bar API for VIT online learning platform
 
 API is hosted on heroku.
 
-Link : https://django-marks-api.herokuapp.com/api/v1
+Link : Since website is down API server is not working.
 
 Request : POST
 
